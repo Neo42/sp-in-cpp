@@ -10,7 +10,7 @@ int main() {
   scanf("%d", &n);
   top = 0;
   for (int i = 1; i <= n; i++) {
-    scanf("%s", str);
+    scanf("%s", &str);
 
     if (str[2] == 's') {
       int x;

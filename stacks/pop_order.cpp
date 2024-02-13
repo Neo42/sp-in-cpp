@@ -1,6 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Based on the number on the first line in the input and the popped numbers on
+// the second line infer the operation sequence
+
 int popped, lower, n, top, s[100001];
 
 int main() {
