@@ -3,13 +3,13 @@ using namespace std;
 
 // 10 times of operations for each operation on each line
 
-int numOfOperations, top, s[100001];
+int n, top, s[100001];
 char str[11];
 
 int main() {
-  scanf("%d", &numOfOperations);
+  scanf("%d", &n);
   top = 0;
-  for (int i = 1; i <= numOfOperations; i++) {
+  for (int i = 1; i <= n; i++) {
     scanf("%s", str);
 
     if (str[2] == 's') {
