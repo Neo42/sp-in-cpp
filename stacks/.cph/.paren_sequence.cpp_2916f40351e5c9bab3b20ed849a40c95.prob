@@ -1,0 +1,1 @@
+{"name":"Local: paren_sequence","url":"/Users/hao/Code/cp-in-cpp/stacks/paren_sequence.cpp","tests":[{"id":1707829126150,"input":"4\n[(])","output":"No"},{"id":1707834072819,"input":"10\n[]([(())])","output":"Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hao/Code/cp-in-cpp/stacks/paren_sequence.cpp","group":"local","local":true}
