@@ -1,0 +1,1 @@
+{"name":"Local: count_greater","url":"/Users/hao/Code/cp-in-cpp/queues/count_greater.cpp","tests":[{"id":1708262213005,"input":"10\n1 2 3 3 6 8 8 9 9 10","output":"0 1 2 3 4 3 4 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hao/Code/cp-in-cpp/queues/count_greater.cpp","group":"local","local":true}
